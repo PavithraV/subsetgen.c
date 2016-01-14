@@ -24,8 +24,9 @@ int main()
 									for(i=start;i<index;i++)
 									{
 											printf("%d",a[i]);
-											printf("%d\n",a[j]);
 									}
+									printf("%d\n",a[j]);
+									
 							}
 					}
 			}
